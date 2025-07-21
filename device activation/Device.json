@@ -15,16 +15,10 @@
     },
     {
         "device_id": "d1c0de8e8c362e30",
-        "username": "mdjuned424",
-        "password": "mdjuned",
-        "expirydate": "15-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d1c0de8e8c362e30",
-        "username": "mdjuned4",
-        "password": "mdjuned5",
+        "username": "mdjuned123",
+        "password": "mdjuned42",
         "expirydate": "15-08-2025",
         "Allowoffline": false
     }
+    
 ]
