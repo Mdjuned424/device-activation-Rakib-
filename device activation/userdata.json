@@ -11,5 +11,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c81074b12cb54d39",
+        "key": "Rakib",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
 ]
